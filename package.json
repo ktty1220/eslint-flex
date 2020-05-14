@@ -1,0 +1,36 @@
+{
+  "name": "@ktty1220/eslint-flex",
+  "version": "0.1.0",
+  "description": "Flexible ESLint switcher",
+  "main": "index.js",
+  "bin": {
+    "eslint-flex": "index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktty1220/eslint-flex.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "ktty1220 <ktty1220@gmail.com> (https://ktty1220.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ktty1220/eslint-flex/issues"
+  },
+  "homepage": "https://github.com/ktty1220/eslint-flex#readme",
+  "dependencies": {
+    "eslint": "^7.0.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
