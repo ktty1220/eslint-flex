@@ -10,7 +10,7 @@ $ npm i -g @ktty1220/eslint-flex
 
 ## Usage
 
-Similar to eslint. (Only replace `eslint` to `eslint-flex`)
+Similar to eslint. (Use `eslint-flex` instead of `eslint`)
 
 ## Default rules
 
